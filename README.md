@@ -1,2 +1,2 @@
 # Tugas-Individu
-https://gilang-zaidan.webflow.io/
+https://gilang-zaidan.webflow.io
