@@ -17,8 +17,10 @@ https://gilang-zaidan.webflow.io
 
 ## Optimalisasi website
 
-Nilai lighthouse sebelum optimalisasi (screenshot)
+Nilai lighthouse sebelum optimalisasi 
+![Screen Shot 2023-06-04 at 15 52 05](https://github.com/Gilang0111/Tugas-Individu/assets/131055349/f3599e38-f31a-4f9d-b2a3-37d4f081f396)
 
-Nilai lighthouse setelah optimalisasi (screenshot)
+Nilai lighthouse setelah optimalisasi 
+![Screen Shot 2023-06-04 at 16 49 15](https://github.com/Gilang0111/Tugas-Individu/assets/131055349/7ab730ec-1022-47c9-b49a-73cc759a6bc8)
 
 Langkah-langkah yang dilakukan untuk meningkatkan nilai kualitas website dari lighthouse: 1. 1. 1.
